@@ -1,2 +1,4 @@
 name: xixianykus
 markdown: kramdown
+
+theme: jekyll-theme-slate
